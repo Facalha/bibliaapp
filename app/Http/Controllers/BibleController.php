@@ -1,5 +1,5 @@
 <?php
-
+//commit
 namespace App\Http\Controllers;
 
 use App\Services\BibleService;
